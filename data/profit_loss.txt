@@ -1,0 +1,6 @@
+A Profit and Loss statement shows the revenues and expenses of a business.
+
+Formula:
+Profit = Revenue - Expenses
+
+It helps determine whether the company is making profit or loss.

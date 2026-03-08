@@ -1,0 +1,9 @@
+A balance sheet shows the financial position of a company.
+
+It includes three components:
+Assets
+Liabilities
+Equity
+
+Formula:
+Assets = Liabilities + Equity

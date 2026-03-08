@@ -1,0 +1,7 @@
+An invoice is a document sent by a seller to a buyer requesting payment.
+
+It usually contains:
+- invoice number
+- date
+- list of goods or services
+- total amount due  
